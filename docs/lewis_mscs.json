@@ -1,0 +1,121 @@
+{
+  "source_url": "https://www.lewisu.edu/academics/mscomputerscience/",
+  "retrieved_at": "2025-10-14T07:24:26.068364Z",
+  "program": {
+    "name": "Computer Science, M.S.",
+    "school": "Lewis University",
+    "college_or_department": "College of Aviation, Science and Technology (CoAST) – Engineering, Computing and Mathematical Sciences (ECaMS)",
+    "delivery": [
+      "On-campus",
+      "Online"
+    ],
+    "format_notes": [
+      "Evening classes",
+      "Accelerated eight-week sessions",
+      "Can be completed in as little as one year"
+    ],
+    "location_context": [
+      "Romeoville (Main Campus)",
+      "Online"
+    ],
+    "highlights": [
+      "Faculty research in software engineering, cybersecurity, AI, and large language models (LLMs)",
+      "Courses in MLOps, generative AI, neural networks & deep learning, NLP, and applied AI",
+      "Small class sizes; access to state-of-the-art labs and tools",
+      "Internship co-op program with Argonne National Laboratory and other employers"
+    ],
+    "contact": {
+      "phone": "(815) 205-0943",
+      "email": "grad@lewisu.edu",
+      "schedule_call_url": "https://grad.lewisu.edu"
+    },
+    "cta_links": {
+      "request_info": "https://www.lewisu.edu/academics/mscomputerscience/",
+      "apply_now": "https://www.lewisu.edu/academics/mscomputerscience/"
+    }
+  },
+  "concentrations": [
+    {
+      "name": "Software Engineering",
+      "learning_outcomes": [
+        "Foundations of software engineering concepts",
+        "Software development process, models, and ethics",
+        "Requirements engineering",
+        "Agile and waterfall methods",
+        "Embedded systems design",
+        "Distributed software engineering (client–server, SaaS)",
+        "Software architecture, design, and evolution",
+        "Software testing, QA, security",
+        "Project management for software development"
+      ]
+    },
+    {
+      "name": "Cyber Security",
+      "learning_outcomes": [
+        "Create responses to emerging cybersecurity problems",
+        "Monitor and investigate cyber-attacks for actionable intelligence",
+        "Create encryption, authentication, and integrity tools",
+        "Identify IS components and security threats",
+        "Design software and networks to resist/mitigate attacks",
+        "Specify tools/architectures for proactive and reactive defense",
+        "Reverse-engineer malware",
+        "Extract and examine digital evidence",
+        "Penetration testing tools for systems and networks"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "learning_outcomes": [
+        "Design and implement intelligent, learning systems",
+        "Apply machine learning to improve system performance",
+        "Derive experience-based models for problem solving",
+        "Integrate software and hardware for autonomous systems",
+        "Build secure device networks for measurement/command",
+        "Create efficient software for constrained devices"
+      ]
+    },
+    {
+      "name": "Digital Forensics",
+      "topics": [
+        "Cybersecurity essentials",
+        "Foundations of digital forensics",
+        "Issues and controversies in intelligence gathering",
+        "Network forensics",
+        "Mobile device forensics"
+      ],
+      "notes": "Up to 12 credit hours may be taken in graduate Criminal Justice courses."
+    },
+    {
+      "name": "Enterprise and Cloud Computing",
+      "topics": [
+        "Scalable data storage systems",
+        "Distributed computing systems",
+        "IaaS / PaaS / SaaS",
+        "Virtualization",
+        "Cloud computing and virtualization security",
+        "Enterprise networking and cloud computing"
+      ]
+    },
+    {
+      "name": "MSCS (Non-Declared)",
+      "required_units": [
+        "Database design and processing",
+        "Object-oriented programming",
+        "Research skills in computer science"
+      ],
+      "notes": "Flexible build-your-own-focus option."
+    }
+  ],
+  "why_choose_lewis": [
+    "U.S. News & World Report Top Tier Colleges",
+    "Faculty industry connections and real-world projects",
+    "Access to commercial & open-source software; modern labs",
+    "Small average class sizes",
+    "Internship co-op program with Argonne National Laboratory",
+    "Hands-on service-oriented projects"
+  ],
+  "curriculum_summary": "Advanced understanding of computer science; flexible curriculum tailored to working adults.",
+  "disclaimers": [
+    "This JSON is a best-effort structured summary for convenience; consult the official page for authoritative details."
+  ]
+}

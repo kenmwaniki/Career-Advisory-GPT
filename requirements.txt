@@ -1,0 +1,31 @@
+fastapi==0.114.*
+uvicorn[standard]==0.30.*
+pydantic==2.*
+
+# LangChain + vector store
+langchain==0.2.*
+langchain-core==0.2.*
+langchain-community==0.2.*
+langchain-chroma==0.1.*
+langchain-huggingface==0.1.*
+chromadb==0.5.*
+
+# Embeddings / HF
+huggingface-hub>=0.23
+numpy
+
+# Ingest helpers (match your script's imports)
+tqdm
+Unidecode
+pymupdf          # for PyMuPDFLoader
+beautifulsoup4   # for BSHTMLLoader
+lxml             # HTML parsing backend
+docx2txt         # for Docx2txtLoader
+pandas           # CSVLoader depends on pandas
+
+# Optional extras you may keep/remove
+rank-bm25
+sse-starlette
+slowapi
+pypdf
+unstructured

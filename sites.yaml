@@ -1,0 +1,21 @@
+
+---
+
+## 5) (Optional) `.gitignore`
+Keeps local junk out of the repo (safe to include).
+
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+build/
+dist/
+.DS_Store
+.idea/
+.vscode/
+data/
+chroma_db/
